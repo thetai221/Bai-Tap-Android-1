@@ -1,12 +1,9 @@
 <h1>Các ứng dụng bài tập Android</h1>
 
 
-
-
-
-
-
 <li><a href="https://github.com/thuongnguyen55/MotionEvent">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong android</a></li>
+<li><a href="https://github.com/thuongnguyen55/FragmentExample">Fragment trong android</a></li>
+<li><a href="https://github.com/thuongnguyen55/MenuExample">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong android</a></li>
 <li><a href="https://github.com/thuongnguyen55/ExplicitIntent">Đối tượng INTENT trong android (Phần 1)</a></li>
 <li><a href="https://github.com/thuongnguyen55/ImplicitIntent">Đối tượng INTENT trong android (Phần 2)</a></li>
 <li><a href="https://github.com/thuongnguyen55/SendBroadcast">Đối tượng INTENT trong android (Phần 3)</a></li>
