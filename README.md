@@ -12,4 +12,6 @@
 <li><a href="https://github.com/thuongnguyen55/Caculator">Ứng dụng về máy tính cá nhân</a></li>
 <li><a href="https://github.com/thuongnguyen55/FromThongtin">Ứng dụng hiển thị thông tin</a></li>
 <br />
+<br />
+<br />
 <a>Ký tên: Nguyễn Trần Trọng Thưởng</a>
