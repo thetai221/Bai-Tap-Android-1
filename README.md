@@ -11,3 +11,5 @@
 <li><a href="https://github.com/thuongnguyen55/SQLiteDemoApplication">Lập trình cơ sở dữ liệu android với SQLite</a></li>
 <li><a href="https://github.com/thuongnguyen55/Caculator">Ứng dụng về máy tính cá nhân</a></li>
 <li><a href="https://github.com/thuongnguyen55/FromThongtin">Ứng dụng hiển thị thông tin</a></li>
+
+<a>Ký tên: Nguyễn Trần Trọng Thưởng</a>
