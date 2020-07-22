@@ -1,5 +1,6 @@
 <h1>Các ứng dụng bài tập Android</h1>
 
+<ol>
 <li><a href="https://github.com/thuongnguyen55/BaiMot">Sự kiện và xử lý sự kiện trong android</a></li>
 <li><a href="https://github.com/thuongnguyen55/MotionEvent">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong android</a></li>
 <li><a href="https://github.com/thuongnguyen55/CommonGesturesActivity">Phát hiện cử chỉ người dùng với lớp Android Gesture Detector</a></li>
@@ -11,6 +12,7 @@
 <li><a href="https://github.com/thuongnguyen55/SQLiteDemoApplication">Lập trình cơ sở dữ liệu android với SQLite</a></li>
 <li><a href="https://github.com/thuongnguyen55/Caculator">Ứng dụng về máy tính cá nhân</a></li>
 <li><a href="https://github.com/thuongnguyen55/FromThongtin">Ứng dụng hiển thị thông tin</a></li>
+</ol>
 <br />
 <br />
 <br />
