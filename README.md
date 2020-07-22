@@ -1,4 +1,4 @@
-<h1>Các ứng dụng bài tập Android</h1>
+<h1>Các ứng dụng bài tập thực hành Android</h1>
 
 <li><a href="https://github.com/thuongnguyen55/OneActivity">Thiết lập và nhận thông tin từ các Android Views</a></li>
 <li><a href="https://github.com/thuongnguyen55/BaiMot">Sự kiện và xử lý sự kiện trong android</a></li>
