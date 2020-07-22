@@ -15,5 +15,4 @@
 </ol>
 <br />
 <br />
-<br />
 <a>Ký tên: Nguyễn Trần Trọng Thưởng</a>
