@@ -16,4 +16,4 @@
 <br />
 <img src="">
 <a>Tên: Nguyễn Trần Trọng Thưởng</a>
-No CopyRight &copy; 2020
+<p>No CopyRight &copy; 2020</p>
