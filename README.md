@@ -16,6 +16,6 @@
 </ol>
 <br />
 <br />
-<img src="https://github.com/thuongnguyen55/chuky">
+<img src="https://github.com/thuongnguyen55/chuky/blob/master/Capture.PNG">
 <a>Tên: Nguyễn Trần Trọng Thưởng</a>
 <p>No CopyRight &copy; 2020</p>
