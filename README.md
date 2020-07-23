@@ -16,7 +16,6 @@
 </ol>
 <br />
 <br />
-<p>Ngày 23/07/2020</p>
 <img src="https://github.com/thuongnguyen55/chuky/blob/master/Capture.PNG">
 <a>Tên: Nguyễn Trần Trọng Thưởng</a>
 <p>Ngày 23/07/2020</p>
