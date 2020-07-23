@@ -14,6 +14,5 @@
 <li><a href="https://github.com/thuongnguyen55/FromThongtin">Ứng dụng hiển thị thông tin</a></li>
 <br />
 <br />
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
+<img src="">
 <a>Tên: Nguyễn Trần Trọng Thưởng</a>
